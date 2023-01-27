@@ -1,0 +1,5 @@
+pip install torch
+pip install transformers==4.4.0
+pip install sklearn
+
+git clone https://github.com/declare-lab/MELD.git
